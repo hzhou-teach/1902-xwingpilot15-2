@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.io.PrintWriter;
 import java.io.File;
+import java.io.FileNotFoundException;
 
 public class Revegetation {
     public static void main(String[] args) throws FileNotFoundException{
