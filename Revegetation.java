@@ -22,7 +22,6 @@ public class Revegetation {
             }
         }
         
-        //Go through each pasture, see if any of the four colors fit
         for(int i = 1; i <= N; i++){
             int j = 0;
             for(j = 1; i <= 4; j++){
